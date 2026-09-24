@@ -7,7 +7,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/8%2B%20YEARS%20EXPERIENCE-fc603a?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SENIOR%20SOFTWARE%20ENGINEER-0d1117?style=for-the-badge&labelColor=0d1117&color=161616" />
+<img src="https://img.shields.io/badge/SENIOR%20SOFTWARE%20ENGINEER-161616?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/@%20AKIRA-fc603a?style=for-the-badge&labelColor=0d1117" />
 <img src="https://komarev.com/ghpvc/?username=HaSh3003&label=PROFILE%20VIEWS&color=fc603a&style=for-the-badge" />
 
@@ -17,7 +17,7 @@
 
 ## `01.` Who I am
 
-I build software end to end — the web app, the desktop client, the mobile app, the API, the database, and the server it all runs on. Eight years of it: ERP and business systems, e‑commerce platforms, dashboards and consumer apps, most of them in production right now.
+I build software end to end — the web app, the desktop client, the mobile app, the API, the database, and the server it all runs on. Eight years of it: ERP and business systems, e-commerce platforms, dashboards and consumer apps, most of them in production right now.
 
 ```ts
 const hesham = {
@@ -58,7 +58,7 @@ A kernel from scratch in **C** and **x86 assembly** — bootloader, memory manag
 <td width="50%" valign="top">
 
 ### 👯 Open to
-Modern web platforms, Laravel and Filament products, mobile apps, and anything low‑level and systems‑flavoured.
+Modern web platforms, Laravel and Filament products, mobile apps, and anything low-level and systems-flavoured.
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +88,7 @@ Laravel & Livewire, .NET & C#, React & React Native, database design — or how 
 </td></tr>
 
 <tr><td valign="middle"><b>Mobile &amp; Desktop</b></td><td>
-<img src="https://skillicons.dev/icons?i=react,electron,androidstudio,apple,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,electron,androidstudio,cs,vscode&theme=dark" />
 </td></tr>
 
 <tr><td valign="middle"><b>Databases</b></td><td>
@@ -100,7 +100,7 @@ Laravel & Livewire, .NET & C#, React & React Native, database design — or how 
 </td></tr>
 
 <tr><td valign="middle"><b>Tools</b></td><td>
-<img src="https://skillicons.dev/icons?i=postman,figma,ps,notion,vscode,visualstudio,arduino,wordpress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postman,figma,ps,notion,visualstudio,arduino,wordpress&theme=dark" />
 </td></tr>
 </table>
 
@@ -115,6 +115,9 @@ Laravel & Livewire, .NET & C#, React & React Native, database design — or how 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-fc603a?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
 ![EF Core](https://img.shields.io/badge/EF_Core-fc603a?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
 ![WPF](https://img.shields.io/badge/WPF-fc603a?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
+![React Native](https://img.shields.io/badge/React_Native-fc603a?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
+![Android](https://img.shields.io/badge/Android-fc603a?style=flat-square&logo=android&logoColor=white&labelColor=0d1117)
+![iOS](https://img.shields.io/badge/iOS-fc603a?style=flat-square&labelColor=0d1117)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-fc603a?style=flat-square&logo=databricks&logoColor=white&labelColor=0d1117)
 ![MariaDB](https://img.shields.io/badge/MariaDB-fc603a?style=flat-square&logo=mariadb&logoColor=white&labelColor=0d1117)
 ![Apache](https://img.shields.io/badge/Apache-fc603a?style=flat-square&logo=apache&logoColor=white&labelColor=0d1117)
