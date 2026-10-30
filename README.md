@@ -2,16 +2,6 @@
 <tr>
 <td width="58%" valign="middle">
 
-<a href="https://heshamyasser.com"><img src="https://img.shields.io/badge/%23-0a0a0b?style=for-the-badge" height="24" /></a> &nbsp;<b>Hesham Yasser</b> &nbsp;/&nbsp; <code>HASH</code>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#01-who-i-am">About</a> &nbsp;
-<a href="https://heshamyasser.com/#experience">Experience</a> &nbsp;
-<a href="https://heshamyasser.com/#work">Work</a> &nbsp;
-<a href="#03-tech-stack">Stack</a> &nbsp;
-<a href="#05-find-me">Contact</a>
-
-<br/>
-
 <sub><code>// SOFTWARE ENGINEER</code></sub>
 
 <h1>Hesham Yasser</h1>
@@ -22,7 +12,6 @@ I build modern web and mobile applications with a focus on performance, clean co
 
 <a href="https://heshamyasser.com/#work"><img src="https://img.shields.io/badge/VIEW%20MY%20WORK%20%E2%86%92-fc603a?style=for-the-badge" /></a>
 <a href="mailto:perfecto.dev@programmer.net"><img src="https://img.shields.io/badge/LET'S%20TALK-0a0a0b?style=for-the-badge" /></a>
-<a href="https://heshamyasser.com"><img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER%20%E2%86%97-fc603a?style=for-the-badge" /></a>
 
 <table>
 <tr>
@@ -42,7 +31,7 @@ I build modern web and mobile applications with a focus on performance, clean co
 </table>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=HaSh3003&label=PROFILE%20VIEWS&color=fc603a&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=HaSh3003&label=PROFILE%20VIEWS&color=fc603a&style=for-the-badge" />
 </div>
 
 <br/>
