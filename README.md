@@ -1,48 +1,16 @@
-<table>
-<tr>
-<td width="58%" valign="middle">
-
-<a href="https://heshamyasser.com"><img src="https://img.shields.io/badge/%23-0a0a0b?style=for-the-badge" height="24" /></a> &nbsp;<b>Hesham Yasser</b> &nbsp;/&nbsp; <code>HASH</code>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#01-who-i-am">About</a> &nbsp;
-<a href="https://heshamyasser.com/#experience">Experience</a> &nbsp;
-<a href="https://heshamyasser.com/#work">Work</a> &nbsp;
-<a href="#03-tech-stack">Stack</a> &nbsp;
-<a href="#05-find-me">Contact</a>
-
-<br/>
-
-<sub><code>// SOFTWARE ENGINEER</code></sub>
-
-<h1>Hesham Yasser</h1>
-
-<a href="https://heshamyasser.com"><img src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&size=46&duration=110&pause=2200&color=FC603A&vCenter=true&width=520&height=64&lines=Software+Engineer" alt="Software Engineer" /></a>
-
-I build modern web and mobile applications with a focus on performance, clean code and great user experiences.
-
-<a href="https://heshamyasser.com/#work"><img src="https://img.shields.io/badge/VIEW%20MY%20WORK%20%E2%86%92-fc603a?style=for-the-badge" /></a>
-<a href="mailto:perfecto.dev@programmer.net"><img src="https://img.shields.io/badge/LET'S%20TALK-0a0a0b?style=for-the-badge" /></a>
-<a href="https://heshamyasser.com"><img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER%20%E2%86%97-fc603a?style=for-the-badge" /></a>
-
-<table>
-<tr>
-<td><h2>8+</h2><sub>Years Experience</sub></td>
-<td><h2>35+</h2><sub>Projects Completed</sub></td>
-<td><h2>25+</h2><sub>Technologies</sub></td>
-</tr>
-</table>
-
-</td>
-<td width="42%" valign="middle" align="center">
-
-<img src="assets/hero-city.webp" alt="Hesham Yasser" width="100%" />
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=HaSh3003&label=PROFILE%20VIEWS&color=fc603a&style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc603a,100:1a1a1a&height=200&section=header&text=Hesham%20Yasser&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%208%2B%20years&descAlignY=54&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FC603A&center=true&vCenter=true&width=760&height=45&lines=Senior+Software+Engineer+%40+Akira;Web+%C2%B7+Desktop+%C2%B7+Mobile+%C2%B7+Systems;Laravel+%7C+.NET+%7C+React+%7C+React+Native;Currently+writing+my+own+operating+system" alt="" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/8%2B%20YEARS%20EXPERIENCE-fc603a?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SENIOR%20SOFTWARE%20ENGINEER-161616?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/@%20AKIRA-fc603a?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=HaSh3003&label=PROFILE%20VIEWS&color=fc603a&style=for-the-badge" />
+
 </div>
 
 <br/>
